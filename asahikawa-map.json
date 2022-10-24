@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "道の駅 あさひかわ",
+        "description": "道の駅あさひかわは、北海道旭川市にある道の駅である。一般財団法人道北地域旭川地場産業振興センターが運営している。美味しいラーメンとパン屋、ソフトクリーム屋やお土産屋がある。",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.348578,
+          43.759956
+        ]
+      }
+    }
+  ]
+}
